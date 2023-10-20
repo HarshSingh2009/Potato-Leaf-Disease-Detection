@@ -1,7 +1,7 @@
 # Potato Leaf Disease Detection!
 ### Detects if the given potato leaf is `Healthy` or `Early Blight` or `Late Blight` with `97% accuracy`!!
 
-[Potato Leaf Disease Detection App Streamlit (link)]()
+[Potato Leaf Disease Detection App Streamlit (link)](https://potato-leaf-disease-detect.streamlit.app/)
 
 
 ## Healthy Leaf
